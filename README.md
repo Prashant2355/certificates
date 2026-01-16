@@ -3,7 +3,7 @@
 This repository contains certifications I have completed to strengthen my skills in
 **Data Analysis, Python, SQL, Business Intelligence**, and **Machine Learning**.
 
-
+##
 **- Post graduate Program in Data Science**
 **- SQL**
 **- JsonPowerDB**
